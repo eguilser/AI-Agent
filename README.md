@@ -158,7 +158,3 @@ This project is licensed under the MIT License.
 - **GitHub:** [GitHub Profile](https://github.com/your-profile)
 
 ---
-## 💬 **Support**
-
-For any issues, please open an **issue** or reach out via [email@domain.com](mailto:email@domain.com).
-
