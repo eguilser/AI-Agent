@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b112e998-890e-4749-aa9e-f548ed9dcfdb)![AgenteIAfile](https://github.com/user-attachments/assets/5174e012-83f1-48ec-bcb7-508540515615)# 🤖 **IA-Agent: An Intelligent Agent for File and Web Searches**
+# 🤖 **IA-Agent: An Intelligent Agent for File and Web Searches**
 
 IA-Agent is a powerful AI-driven project designed to perform advanced searches both in local files and on the web. It leverages Pinecone for vector search, SerpAPI for online queries, and Hugging Face's language models for natural language processing. The project includes a query history feature and a caching system to boost efficiency.
 
